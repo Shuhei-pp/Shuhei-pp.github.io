@@ -9,3 +9,7 @@
 # TODO
 * パフォーマンスの追加
 
+# リンク  
+https://shuhei-pp.github.io/main.html  
+https://shuhei-pp.github.io/random_draw/main.html
+
